@@ -1,2 +1,2 @@
 #!bin/bash
-shell basic repo
+echo 'i am working now'
