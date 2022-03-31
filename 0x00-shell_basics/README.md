@@ -1,2 +1,2 @@
-#!bin/bash
-echo 'i am working now'
+#!/bin/bash
+0x00-shell_basics read me
