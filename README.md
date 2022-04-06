@@ -1,2 +1,1 @@
-#!/bin/bash
-shell basic repo
+0-hello_world
